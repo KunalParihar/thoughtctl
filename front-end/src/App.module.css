@@ -1,0 +1,19 @@
+.login-background {
+    background-image: url('./assets/background.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container-box {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+    margin: 0 auto;
+    width: 135px;
+    height: 100vh;
+    text-align: center;
+    flex-flow: column;
+}

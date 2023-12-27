@@ -1,0 +1,24 @@
+.link-button {
+    list-style-type: none;
+    height: auto;
+    margin-bottom: 10px;
+    background-color: #04AA6D;
+    color: #ffffff;
+    border-color: #04AA6D;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 5px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+.user-list {
+    text-align: left;
+}
+.user-list input{
+    margin-right: 10px;
+}
+.user-list {
+    list-style-type: none;
+}
