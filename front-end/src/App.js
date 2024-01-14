@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route,Routes } from 'react-router-dom';
 import CreateUser from './User/CreateUser';
 import ChatRoom from './Chat/ChatRoom';
-import Home from './Home/Home'
-import style from './App.module.css'
 
+import style from './App.module.css'
+import Home from './Home/Home';
 function App() {
   return (
     <Router>
